@@ -21,6 +21,7 @@ For example, if the bot sends you:<br>
 ``Seems like @Patater is interested in your card in 1 ticket store (hx5wq9). If you think that is a mistake, please type g!report hx5wq9 [a short explaination] so the mods can deal with it! Thank you!``<br>
 DM the bot:
 ``g!report hx5wq9 I didn't post this card but I am recieving the DMs. Can you check the logs for me?``<br>
+<img src='https://cdn.discordapp.com/attachments/777992083130023987/837783968840417281/unknown.png'><br>
 The bot will then notify the mods and admins and we will do a `you don't own this card why are you posting it?` :) <br><br>
 
 ### Using the ticket store (as a buyer):
