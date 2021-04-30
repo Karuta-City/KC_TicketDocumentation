@@ -14,7 +14,7 @@ Now, you should DM the person and ask if they are interested. If they are intere
 <b>After the buying process</b><br><br>
 Congrats! Your card is now sold. Please go back to the post and react `tick`. The post will be automatically deleted. Hurray!<br><br>
 <b>The person isn't interested anymore. What the heck?</b><br><br>
-Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give him/her a little `hey you can't just react and say you're not interested.`<br><br>
+Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.`<br><br>
 <b>I didn't even post the card. Why am I getting these DMs?</b><br><br>
 Don't worry. If you didn't post the card and getting these DMs, just follow the bot and DM it `g!report [card code] [a brief reason]`.<br>
 For example, if the bot sends you:<br>
