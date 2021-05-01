@@ -7,7 +7,7 @@ Welcome to the Karuta City Maid Bot Documentation! If for some reason you're lur
 When you kv your card (or if a mod/admin kvs for you) the bot will automatically react both `ticket` and `check`:<br>
 <img src='https://media.discordapp.net/attachments/777992083130023987/837766510985609256/unknown.png?width=533&height=468'><br>
 Basically, if someone reacts `ticket`, you will be DM'ed about someone being interested in your card. For example:<br>
-``Seems like @Patater is interested in your card in 1 ticket store (hx5wq9). If you think that is a mistake, please type g!report hx5wq9 [a short explaination] so the mods can deal with it! Thank you!``<br>
+```Seems like @Patater is interested in your card in 1 ticket store (hx5wq9). If you think that is a mistake, please type g!report hx5wq9 [a short explaination] so the mods can deal with it! Thank you!```<br>
 <img src='https://cdn.discordapp.com/attachments/777992083130023987/837769244989063178/unknown.png'><br>
 This will only happen once, because once the first person reacts, no one else can react. (unless you reset it when the person isn't interested.)
 Now, you should DM the person and ask if they are interested. If they are interested, Great! If they aren't, don't fret! Read on. I never posted that card for sale? Don't worry, we got your back. Read on.<br><br>
