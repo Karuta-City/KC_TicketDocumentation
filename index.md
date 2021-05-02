@@ -14,7 +14,7 @@ Basically, if someone reacts `ticket`, you will be DM'ed about someone being int
 This will only happen once, because once the first person reacts, no one else can react. (unless you reset it when the person isn't interested.)
 Now, you should DM the person and ask if they are interested. If they are interested, Great! If they aren't, don't fret! Read on. I never posted that card for sale? Don't worry, we got your back. Read on.<br><br>
 <b>After the buying process</b><br><br>
-Congrats! Your card is now sold. Please go back to the post and react `tick`. The post will be automatically deleted. Hurray!<br><br>
+Congrats! Your card is now sold. Please go back to the post and react `check`. The post will be automatically deleted. Hurray!<br><br>
 <b>The person isn't interested anymore. What the heck?</b><br><br>
 Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.`<br><br>
 <b>I didn't even post the card. Why am I getting these DMs?</b><br><br>
