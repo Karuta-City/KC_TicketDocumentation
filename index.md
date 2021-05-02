@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
+
 ## Welcome to Karuta City Maid Documentation!
 Welcome to the Karuta City Maid Bot Documentation! If for some reason you're lurking here but havent join us yet, [why not?](https://discord.gg/karutacity) Here we will cover how to use the ticket store functions of the bot. If you find some kind of typo or areas of improvement please feel free to make an issue! We will try and resolve it asap.
 
