@@ -11,12 +11,12 @@ When you kv your card (or if a mod/admin kvs for you) the bot will automatically
 Basically, if someone reacts `ticket`, you will be DM'ed about someone being interested in your card. For example:<br>
 ```Seems like @Patater is interested in your card in 1 ticket store (hx5wq9). If you think that is a mistake, please type g!report hx5wq9 [a short explaination] so the mods can deal with it! Thank you!```<br>
 <img src='https://cdn.discordapp.com/attachments/777992083130023987/837769244989063178/unknown.png'><br>
-This will only happen once, because once the first person reacts, no one else can react. (unless you reset it when the person isn't interested.)
+This will only happen once, because once the first person reacts, when someone else reacts the bot will not DM you. (unless you reset it when the person isn't interested.)
 Now, you should DM the person and ask if they are interested. If they are interested, Great! If they aren't, don't fret! Read on. I never posted that card for sale? Don't worry, we got your back. Read on.<br><br>
 <b>After the buying process</b><br><br>
 Congrats! Your card is now sold. Please go back to the post and react `check`. The post will be automatically deleted. Hurray!<br><br>
 <b>The person isn't interested anymore. What the heck?</b><br><br>
-Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.`<br><br>
+Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.` If you have someone queueing for the card, you would be DMed with the code of the person.<br><br>
 <b>I didn't even post the card. Why am I getting these DMs?</b><br><br>
 Don't worry. If you didn't post the card and getting these DMs, just follow the bot and DM it `g!report [card code] [a brief reason]`.<br>
 For example, if the bot sends you:<br>
@@ -29,7 +29,7 @@ The bot will then notify the mods and admins and we will do a `you don't own thi
 ### Using the ticket store (as a buyer):
 
 When you see a card you would like to buy, just react to `ticket`! The owner of the card would be DMed with your intentions so they can contact you for the trade. Just remember that if you back out from your react then you know what's coming :)<br>
-If your react gets deleted by the bot when you react to a card that means someone has already stated their intention before you. Try reacting faster next time or check back if the person has backed out of the purchase!
+If the bot DMs you after you react it means that you are in the waitlist of the card. The bot will dm you when you are the new buyer!
 
 ### Support or Contact
 
