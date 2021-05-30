@@ -21,9 +21,15 @@ Congrats! Your card is now sold. Please go back to the post and react `check`. T
 When you see a card you would like to buy, just react to `ticket`! The owner of the card would be DMed with your intentions so they can contact you for the trade. Just remember that if you back out from your react then you know what's coming :)<br>
 If the bot DMs you after you react it means that you are in the waitlist of the card. The bot will dm you when you are the new buyer!
 
+### Other rules you must follow in the stores:
+
+1. You must not post other's cards in any of the stores. If you do you will get banned from the entire server, as simple as that.
+2. You must not troll react on other people's cards. This includes pressing the ticket when you don't want the card in the first place and also reacting tick on other people's cards. If you do that by accident please DM an admin or mod. Second offence without contacting a mod will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
+3. You must not demand more tickets than where you posted you card in. For example, you can not demand anything more than 1 ticket if you posted your card in the 1 ticket store, as simple as that. 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
+
 ### FAQs
 <b>The person isn't interested anymore. What the heck?</b><br><br>
-Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.` If you have someone queueing for the card, you would be DMed with the code of the person.<br><br>
+Don't worry. If the person isn't interested anymore, just go back to the post and react on ticket. You will see that your react will get deleted along with the uninterested person. The person wouldn't go unscathed though. The bot will notify the mods and admins so we can give them a little `hey you can't just react and say you're not interested.` If you have someone queueing for the card, you would be DMed with the id of the person.<br><br>
 <b>I didn't even post the card. Why am I getting these DMs?</b><br><br>
 Don't worry. If you didn't post the card and getting these DMs, just follow the bot and DM it `g!report [card code] [a brief reason]`.<br>
 For example, if the bot sends you:<br>
