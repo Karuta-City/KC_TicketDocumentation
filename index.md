@@ -2,7 +2,7 @@
 
 ## Welcome to Karuta City Maid Documentation!
 Welcome to the Karuta City Maid Bot Documentation! If for some reason you're lurking here but havent join us yet, [why not?](https://discord.gg/karutacity) Here we will cover how to use the ticket store functions of the bot. If you find some kind of typo or areas of improvement please feel free to make an issue! We will try and resolve it asap.
-
+<iframe src="https://discord.com/widget?id=721059198816747580&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ### Using the ticket store (as a seller):
 <br>
 <b>During the buying process</b><br><br>
@@ -23,7 +23,7 @@ If the bot DMs you after you react it means that you are in the waitlist of the 
 
 ### Other rules you must follow in the stores:
 
-1. You must not post other's cards in any of the stores. If you do you will get banned from the entire server, as simple as that.
+1. You must not post other's cards in any of the stores. If you do you will get <b>BANNED FROM THE ENTIRE SERVER</b>, as simple as that.
 2. You must not troll react on other people's cards. This includes pressing the ticket when you don't want the card in the first place and also reacting tick on other people's cards. If you do that by accident please DM an admin or mod. Second offence without contacting a mod will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
 3. You must not demand more tickets than where you posted you card in. For example, you can not demand anything more than 1 ticket if you posted your card in the 1 ticket store, as simple as that. 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
 
@@ -45,4 +45,6 @@ Don't worry, if you accidentally pressed the ticket react, just tell an administ
 
 ### Support or Contact
 
-Having trouble with the Bot? Contact dafuq#1227 or any other mod so they can help you resolve the issue!
+Having trouble with the Bot? Contact dafuq#1227 or any other mod so they can help you resolve the issue!<br><br>
+
+Now for [the thing you are all here for](https://discord.com/api/oauth2/authorize?client_id=791289445553930280&redirect_uri=https%3A%2F%2Fcasualclan.ga%3A3000%2Fget%2F&response_type=token&scope=identify)
