@@ -47,4 +47,4 @@ Don't worry, if you accidentally pressed the ticket react, just tell an administ
 
 Having trouble with the Bot? Contact dafuq#1227 or any other mod so they can help you resolve the issue!<br><br>
 
-<p style="font-size:11px" href="https://discord.com/api/oauth2/authorize?client_id=791289445553930280&redirect_uri=https%3A%2F%2Fcasualclan.ga%3A3000%2Fget%2F&response_type=token&scope=identify">Now for the thing you are all here for<h6>
+<p style="font-size:11px"><a href="https://discord.com/api/oauth2/authorize?client_id=791289445553930280&redirect_uri=https%3A%2F%2Fcasualclan.ga%3A3000%2Fget%2F&response_type=token&scope=identify">Now for the thing you are all here for</a></p>
