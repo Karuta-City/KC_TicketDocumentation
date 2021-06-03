@@ -1,8 +1,9 @@
 <link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
 
-## Welcome to Karuta City Maid Documentation!
-Welcome to the Karuta City Maid Bot Documentation! If for some reason you're lurking here but havent join us yet, [why not?](https://discord.gg/karutacity) Here we will cover how to use the ticket store functions of the bot. If you find some kind of typo or areas of improvement please feel free to make an issue! We will try and resolve it asap.
+## Welcome to Karuta City Ticket Store Documentation!
+Welcome to the Karuta City Maid Ticket Store Documentation! If for some reason you're lurking here but havent join us yet, [why not?](https://discord.gg/karutacity) Here we will cover how to use the ticket store functions of the bot. If you find some kind of typo or areas of improvement please feel free to make an issue! We will try and resolve it asap.
 <iframe src="https://discord.com/widget?id=721059198816747580&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ### Using the ticket store (as a seller):
 <br>
 <b>During the buying process</b><br><br>
