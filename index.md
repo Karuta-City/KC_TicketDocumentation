@@ -44,7 +44,7 @@ The bot will then notify the mods and admins and we will do a `you don't own thi
 <b>I can only see invalid-user as the buyer. What should I do?</b><br><br>
 If you see invalid-user, please DM an admin, moderator or helper and they can get the id and the username of the buyer for you!<br><br>
 <b>Crap, I accidentally pressed the ticket! What should I do? (applies to both sellers and buyers)</b><br><br>
-Don't worry, if you accidentally pressed the ticket react, just tell an administrator or a mod. They won't warn you if you tell them. But if you do forget you will be warned in your second offence!<br><br>
+Don't worry, if you accidentally pressed the ticket react, just tell an administrator or a mod. They won't warn you if you tell them. But if you do forget twice your perms will be removed! (First offence warn, second offence remove perms)<br><br>
 
 ### Support or Contact
 
